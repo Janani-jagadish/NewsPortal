@@ -64,8 +64,5 @@ $dbname = "newsportal";
 
 5️⃣ Run the Project
 
-
-
 http://localhost/news-portal/
 
-🔐 Admin Login Details
